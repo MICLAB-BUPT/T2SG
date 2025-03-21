@@ -1,2 +1,2 @@
 # T2SG
-Code of CVPR2025 Paper 《Diffusion-driven Incomplete Multimodal Learning for Air Quality Prediction》
+Code of CVPR2025 Paper 《T2SG: Traffic Topology Scene Graph for Topology Reasoning in Autonomous Driving》
