@@ -48,7 +48,7 @@
 
 ### Dataset
 
-Our experiments are conducted on OpenLane-V2. Please download the dataset from the [official OpenLane-V2 release](https://github.com/OpenDriveLab/OpenLane-V2), create a data/ folder under the project root, and place the dataset inside it (e.g., data/OpenLane-V2/).
+Our experiments are conducted on OpenLane-V2. Please download the dataset from the [official OpenLane-V2 release](https://github.com/OpenDriveLab/OpenLane-V2), create a `data/` folder under the project root, and place the dataset inside it (e.g., `data/OpenLane-V2/`).
 
 ### Prerequisites
 
