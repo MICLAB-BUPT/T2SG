@@ -17,7 +17,7 @@
 </div>
 
 
-<img src="figs/Fig1.png" width="100%"/>
+<img src="figs/Fig1.png" width="80%"/>
 <p align="justify"><i>In autonomous driving, understanding a traffic scene isn’t just about detecting lanes—it’s about grasping how lanes connect, why they are structured the way they are, and how traffic signals govern their use. Can current HD mapping methods build a coherent, structured representation that captures this logic? Or do they merely trace geometry without reasoning? We investigate these questions by introducing T2SG (Traffic Topology Scene Graph), a unified scene graph that explicitly models lane topology and signal-guided relationships,and propose TopoFormer, a one-stage transformer that generates such graphs through geometric aggregation and counterfactual structural reasoning. By evaluating on OpenLane-V2, we show not only that T²SG enables more accurate and explainable HD maps, but also that it significantly enhances downstream spatial reasoning for autonomous systems.</i></p>
 
 </div>
@@ -39,7 +39,7 @@
 
 ## Results
 
-**Evaluation Setups:** 我们在交通拓扑场景图生成和OpenLaneV2两个任务上报告了我们的模型和baseline的对比结果。
+**Evaluation Setups:** We report comparative results between our model and the baselines on two tasks: traffic topology scene graph generation and OpenLaneV2.
 
 <img src="figs/Result_1.png" width="100%"/>
 <img src="figs/Result_2.png" width="100%"/>
