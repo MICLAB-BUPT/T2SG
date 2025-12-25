@@ -86,7 +86,7 @@ Stage 2(finetune)
 
 ## Acknowledgement
 
-Our evaluation code is build upon [TopoNet](https://github.com/OpenDriveLab/TopoNet). We acknowledge their team for open-sourcing their implementation.
+Our code is build upon [TopoNet](https://github.com/OpenDriveLab/TopoNet). We acknowledge their team for open-sourcing their implementation.
 
 ## Citation
 
